@@ -1,0 +1,90 @@
+.azeret-mono{
+  <font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;}
+
+  /* header styles */
+  header{background-image: url(/assets/Hero-bg.png); margin: 131px 0px;}
+.banner{display: block ; margin: 26px 221px 44px ; align-items: center; justify-content: center; text-align: center;}
+
+  
+.group{
+    width: 240px;
+    height: 240px;
+    margin-top: 26px ;
+}
+
+  
+.header-title{
+    color: rgb(13, 19, 33);
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+margin-bottom: 0px;
+  }
+
+.header-subtitle{color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+margin-top: 24px;
+margin-bottom: 32px;}
+
+.btn-1{
+        border-radius: 8px;
+        background: rgb(13, 19, 33);
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-weight: 600;
+        padding: 21px 24px 21px 24px;
+        margin-bottom: 44px;
+
+    }
+
+    /* second slide */
+
+    .sec-1{margin: 97px;}
+    .subheader{margin: 48px;}
+
+    .subheader-title{color: rgb(13, 19, 33);
+        font-size: 32px;
+        font-weight: 800;
+        text-align: center;
+    margin-bottom: 0px;}
+
+        .subheader-subtitle{color: rgb(13, 19, 33);
+            font-size: 16px;
+            font-weight: 400;;
+            text-align: center;
+        margin-top: 24px;}
+
+.boxes{display: block; margin: 48px;}
+
+.box{display: flex; justify-content: space-between; padding: 48px;}
+
+.boxcontent>h3{color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+margin-bottom: 16px;}
+
+.boxcontent>p {color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+margin-bottom: 32px;}
+
+.boxbtn{ width: 150px;
+    height: 48px;
+    gap: 10;
+    padding: 12px 20px 12px 20px;
+    border: 1px solid rgb(13, 19, 33);
+background-color: white;
+color: rgb(13, 19, 33)
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+}
