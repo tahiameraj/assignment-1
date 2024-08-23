@@ -8,6 +8,7 @@
   header{background-image: url(/assets/Hero-bg.png); margin: 131px 0px;}
 .banner{display: block ; margin: 26px 221px 44px ; align-items: center; justify-content: center; text-align: center;}
 
+main{text-align: center;}
   
 .group{
     width: 240px;
@@ -41,6 +42,7 @@ margin-bottom: 32px;}
         margin-bottom: 44px;
 
     }
+.btn-1a{color: rgb(255, 255, 255); text-decoration: none;}    
 
     /* second slide */
 
@@ -88,3 +90,29 @@ font-size: 20px;
 font-weight: 600;
 text-align: center;
 }
+.boxbtna{color: rgb(13, 19, 33);text-decoration: none; }
+
+/* section 2 */
+iframe{width: 1140px; height: 614px; padding: 80px 32px 32px 32px;}
+
+/* section 3 */
+.sec-3{margin-top: 183px;}
+.sec3boxes{display: flex; padding: 48px;}
+.sec3box{text-align: left; padding: 40px; margin: 0px 12px; border-radius: 16px;}
+.boxtitle{color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+.boxsubtitle{color: rgb(13, 19, 33);
+        font-size: 16px;
+        font-weight: 400;
+        }
+.sec3a{color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;}
+.sec3b1{background-color: rgba(255, 76, 30, 0.05);}
+.sec3b2{background-color: rgba(0, 76, 232, 0.05);;}
+.sec3b3{background-color: rgba(255, 223, 0, 0.05);;}
+
+/* section 4 */
